@@ -1,0 +1,13 @@
+Need to settle a quick choice? Who goes first, which movie to watch, left or right? Just flip a coin.
+
+good111gg is a clean, simple coin flipper. Tap the coin and watch it spin high into the air, land with a metallic ping and settle on Heads or Tails.
+
+<b>Features</b>
+<ul>
+<li>Realistic coin toss: spin, arc, bounce and shadow</li>
+<li>Fair 50/50 result for every flip</li>
+<li>Coin sounds and vibration on landing (sound can be turned off)</li>
+<li>Keeps a tally of Heads, Tails and total flips</li>
+<li>English and Bengali, switch with one tap</li>
+<li>Works offline: no permissions, no account, no ads, no tracking</li>
+</ul>
