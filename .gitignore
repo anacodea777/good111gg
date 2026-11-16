@@ -1,0 +1,12 @@
+.gradle/
+build/
+app/build/
+local.properties
+keystore.properties
+*.jks
+*.keystore
+
+# Private notes (kept locally, not published)
+HUONG-DAN-PLAY-STORE.md
+store/listing.md
+store/privacy-policy.html

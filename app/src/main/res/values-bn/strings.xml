@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tap_to_flip">কয়েন উল্টাতে ট্যাপ করুন</string>
+    <string name="flipping">ঘুরছে…</string>
+    <string name="heads">হেড</string>
+    <string name="tails">টেল</string>
+    <string name="total">মোট</string>
+    <string name="reset">রিসেট</string>
+    <string name="switch_language">English</string>
+    <string name="sound_on">শব্দ চালু</string>
+    <string name="sound_off">শব্দ বন্ধ</string>
+    <string name="coin_description">কয়েন। উল্টাতে ট্যাপ করুন।</string>
+    <string name="result_announcement">ফলাফল: %1$s</string>
+</resources>

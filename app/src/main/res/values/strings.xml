@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">good111gg</string>
+    <string name="tap_to_flip">Tap the coin to flip</string>
+    <string name="flipping">Flipping…</string>
+    <string name="heads">Heads</string>
+    <string name="tails">Tails</string>
+    <string name="total">Total</string>
+    <string name="reset">Reset</string>
+    <string name="switch_language">বাংলা</string>
+    <string name="sound_on">Sound on</string>
+    <string name="sound_off">Sound off</string>
+    <string name="coin_description">Coin. Tap to flip.</string>
+    <string name="result_announcement">Result: %1$s</string>
+</resources>
